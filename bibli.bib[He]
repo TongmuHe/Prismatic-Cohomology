@@ -1,0 +1,34 @@
+
+@misc{mohamed-derived,
+  author       = {Mohamed Moakher},
+  title        = {Some technical stuff},
+  howpublished = {\url{https://drive.google.com/file/d/1565lL-ITHFJUsk2fASZRF1BORT1iN5qP/view}},
+  year         = {2019},
+  note         = {Student seminar on prismatic cohomology},
+}
+
+
+@misc{bhatt-scholze-prisms,
+    title={Prisms and Prismatic Cohomology},
+    author={Bhargav Bhatt and Peter Scholze},
+    year={2019},
+    eprint={1905.08229},
+    archivePrefix={arXiv},
+    primaryClass={math.AG},
+}
+
+
+@article {bhatt-pris,
+    AUTHOR = {Bhatt, Bhargav},
+     TITLE = {Prismatic cohomology},
+      YEAR = {2018},
+       URL = {http://www-personal.umich.edu/~bhattb/teaching/prismatic-columbia/},
+       NOTE= {Lecture notes at Columbia University},
+}
+
+@misc{stacks-project,
+  author       = {The {Stacks project authors}},
+  title        = {The Stacks project},
+  howpublished = {\url{https://stacks.math.columbia.edu}},
+  year         = {2020},
+}
